@@ -8,7 +8,7 @@ class WpProQuiz_View_WpqSupport extends WpProQuiz_View_View
         ?>
 
         <div class="wrap">
-            <h2><?php _e('Apoiar WP-Pro-Quiz', 'wp-pro-quiz'); ?></h2>
+            <h2><?php _e('Apoiar Wp-Pro-Quiz-PT-BR', 'wp-pro-quiz'); ?></h2>
 
             <h3><?php _e('Doar', 'wp-pro-quiz'); ?></h3>
 
