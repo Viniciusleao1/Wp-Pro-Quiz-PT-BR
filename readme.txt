@@ -48,6 +48,7 @@ Um plugin de quiz poderoso e bonito para WordPress.
 * Poderoso
 * Geração de shortcodes em todo o plugin e questionários, Leaderboard e Gráficos
 * 4 Gráficos dinâmicos + Sinalizadores: - Gráfico Pizza, Gráfico Barchart, Gráfico Linha Power BI, Gráfico Line Chart
+* Shortcodes dos gráficos estão em - Configurações globais
 * Totalmente compatível com plugins de cache (por exemplo, WP-Super-Cache ou W3 Total Cache)
 
 
